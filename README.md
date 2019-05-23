@@ -1,2 +1,2 @@
 # hello-world
-This is the first repository
+We are trying to make changes here. Later we'll merge this with the master branches.
